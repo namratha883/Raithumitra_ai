@@ -1,4 +1,5 @@
 import streamlit as st
+from google import genai
 from pathlib import Path
 
 # ============================================================
